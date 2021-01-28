@@ -1,3 +1,3 @@
 # DoIt
 
-DoIt 문제
+DoIt 문제풀이
